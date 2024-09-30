@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6959CD&textBg=false&fontColor=FFFFFF&fontSize=18&descAlignY=31&descAlign=29&section=header&reversal=false"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFA500&size=40&center=true&vCenter=true&width=1000&lines=HI!👋🏿;+My+name+is+Junior+Roberto+dos+Santos;I'm+music player;I'm+from+Brazil-+São+Paulo;I'm+Studant👨🏿‍💻+Computer+Science;Be+Welcome!💜)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFA500&size=40&center=true&vCenter=true&width=1000&lines=HI!👋🏿;+My+name+is+Junior+Roberto+dos+Santos;I'm+music+ player;I'm+from+Brazil-+São+Paulo;I'm+Studant👨🏿‍💻+Computer+Science;Be+Welcome!💜)](https://git.io/typing-svg)
 
 
 <div align="center">  
